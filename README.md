@@ -13,6 +13,8 @@ Hi everybody! [This notebook](https://github.com/Rajiv-Sangle/IBM-IISc_Quantum_w
 Before you go ahead, do check out these links to get [an overview of Qiskit Runtime][1] and its [installation and setup guide][2].
 Kindly refer to this notebook along with these [tutorials][3], also this [video](https://www.youtube.com/watch?v=b9mdMye-iVk) if required.
 
+Kindly download this notebook and upload it in your IBM Quantum Lab environment to get started.
+
 [1]: https://quantum-computing.ibm.com/lab/docs/iql/runtime/
 [2]: https://qiskit.org/documentation/partners/qiskit_ibm_runtime/getting_started.html
 [3]: https://qiskit.org/documentation/partners/qiskit_ibm_runtime/tutorials.html
